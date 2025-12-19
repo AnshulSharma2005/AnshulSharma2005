@@ -35,7 +35,12 @@
   
 - **Graphic Design Intern – ADM Education and Welfare Society** *(Nov 2024-Jan 2025)*  
   - Designed marketing creatives, social posts, and UI assets using **Adobe Photoshop**, **Illustrator**, and **Figma**  
-  - Delivered high-quality visuals aligned with brand guidelines  
+  - Delivered high-quality visuals aligned with brand guidelines
+ 
+- **AI & Data Analytics Intern – AICTE–Shell–Edunet** *(Oct 2025-Nov 2025)*  
+  - Completed a 4-week internship focusing on  AI, Data Analytics & Green Skills 
+  - Performed data preprocessing, exploratory analysis, and ML model understanding
+  - Built insights using Python and sustainability-focused data workflows
 ---
 
 ## 🛠️ Tech Toolbox
