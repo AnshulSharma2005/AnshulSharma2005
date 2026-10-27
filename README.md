@@ -9,7 +9,7 @@
 
 <!-- Typing effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=00CFFF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;AI+%26+ML+Enthusiast;Open-Source+Contributor;Cloud-Native+Explorer" alt="Typing roles">
+   <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=00CFFF&center=true&vCenter=true&width=650&lines=Software+Developer;QA+%26+Automation+Testing;Full-Stack+Developer;AI+%26+ML+Enthusiast" alt="Typing roles"/>
 </p>
 
 <p align="center">
