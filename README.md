@@ -19,11 +19,14 @@
 ---
 
 ## 🌟 About Me
-- **B.Tech Computer Science (PSIT, 2022–2026)**  
-- Passionate about **AI/ML**, **cloud computing**, and **scalable system design**  
-- Love turning ideas into reality through **end-to-end product development**  
-- Exploring **LangChain**, **RAG architectures**, and **serverless AI**  
-- Hackathon participant & open-source contributor
+- 🎓 **B.Tech in Computer Science and Engineering** from Pranveer Singh Institute of Technology (AKTU), Kanpur.
+- 🏆 Graduated with a **CGPA of 8.74/10 and First Division with Distinction**.
+- 💼 Currently working as a **QA / Testing Intern at FlexiFunnels**.
+- 🧪 Hands-on experience in manual testing, functional testing, UI testing, regression testing, and bug reporting.
+- 🤖 Learning and implementing test automation using **Playwright and TypeScript**.
+- 💻 Experienced in Full-Stack Development, AI/ML, and Computer Vision.
+- 🚀 Interested in building reliable software and improving product quality through testing and automation.
+
 
 ---
 
@@ -41,29 +44,61 @@
   - Completed a 4-week internship focusing on  AI, Data Analytics & Green Skills 
   - Performed data preprocessing, exploratory analysis, and ML model understanding
   - Built insights using Python and sustainability-focused data workflows
+    
+- **QA / Testing Intern – FlexiFunnels** *(June 2026 – Present)*
+  - Performed manual testing of web application features, checkout, membership, and subscription workflows.
+  - Tested integrations and webhooks, reported bugs, and verified fixes.
+  - Learned automation testing using **Playwright and TypeScript**, writing and executing automated test scripts.
+
 ---
+
 
 ## 🛠️ Tech Toolbox
 
 **Languages**
-- Python  
-- Java  
-- C++  
-- JavaScript / TypeScript  
+- JavaScript
+- TypeScript
+- Python
+- Java
+- C++
+- PHP
+- SQL
 
 **Frameworks & Libraries**
-- React  
-- Node.js / Express  
-- Laravel  
+- React.js
+- Node.js / Express
+- Laravel
+- Bootstrap
 
-**DevOps & Cloud**
-- AWS  
-- Docker  
-- GitHub Actions / CI-CD  
+**Manual Testing**
+- Functional Testing
+- UI Testing
+- Regression Testing
+- Test Case Design
+- Bug Reporting & Retesting
+
+**Automation Testing**
+- Playwright
+- TypeScript
+- Automated Test Scripts
+- End-to-End Testing
+
+**DevOps & Tools**
+- Git / GitHub
+- Browser DevTools
+- Slack
+- Figma
 
 **Databases**
-- MySQL  
-- MongoDB  
+- MySQL
+- Oracle
+- Firebase
+
+**AI / ML**
+- OpenCV
+- TensorFlow
+- Computer Vision
+
 
 ---
 
